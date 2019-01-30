@@ -9,5 +9,7 @@ namespace Entities
         public string City { get; set; }
         public string StudentId { get; set; }
         public string ClassName { get; set; }
+
+        public int Age { get; set; }
     }
 }
